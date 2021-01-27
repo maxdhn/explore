@@ -9,6 +9,7 @@ items:
  - cerebral/cerebral
  - storeon/storeon
  - artalar/reatom
+ - cerebral/overmind
 display_name: JavaScript State Management Tools
 created_by: lestad
 ---
